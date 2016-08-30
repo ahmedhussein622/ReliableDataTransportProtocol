@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1449327061 source:/home/heg/Codeblocks/UDPClient/Client.cpp
+	"Client.h"
+
+1449260864 /home/heg/Codeblocks/UDPClient/Client.h
+	"Utility.h"
+	<errno.h>
+	<signal.h>
+
+1449251641 /home/heg/Codeblocks/UDPClient/Utility.h
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<string>
+	<errno.h>
+	<map>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<sstream>
+
+1449236800 source:/home/heg/Codeblocks/UDPClient/Utility.cpp
+	"Utility.h"
+
+1449234817 source:/home/heg/Codeblocks/UDPClient/main.cpp
+	"Client.h"
+	"Utility.h"
+

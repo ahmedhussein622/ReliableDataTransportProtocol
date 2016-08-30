@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1449234817 source:/home/heg/Codeblocks/UDPClient -SR/main.cpp
+	"Client.h"
+	"Utility.h"
+
+1449260864 /home/heg/Codeblocks/UDPClient -SR/Client.h
+	"Utility.h"
+	<errno.h>
+	<signal.h>
+
+1449431343 /home/heg/Codeblocks/UDPClient -SR/Utility.h
+	<inttypes.h>
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<string>
+	<errno.h>
+	<map>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<sstream>
+
+1449236800 source:/home/heg/Codeblocks/UDPClient -SR/Utility.cpp
+	"Utility.h"
+
+1449432503 source:/home/heg/Codeblocks/UDPClient -SR/Client.cpp
+	"Client.h"
+
+1449580233 source:/home/hero/Downloads/UDP_ALL/UDPClient -SR/Client.cpp
+	"Client.h"
+	<ctime>
+
+1449580579 /home/hero/Downloads/UDP_ALL/UDPClient -SR/Client.h
+	"Utility.h"
+	<errno.h>
+	<signal.h>
+
+1449431343 /home/hero/Downloads/UDP_ALL/UDPClient -SR/Utility.h
+	<inttypes.h>
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<string>
+	<errno.h>
+	<map>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<sstream>
+
+1449585693 source:/home/hero/Downloads/UDP_ALL/UDPClient -SR/main.cpp
+	"Client.h"
+	"Utility.h"
+
+1449236800 source:/home/hero/Downloads/UDP_ALL/UDPClient -SR/Utility.cpp
+	"Utility.h"
+
+1449580232 source:/home/heg/Downloads/UDP_ALL/UDPClient -SR/Client.cpp
+	"Client.h"
+	<ctime>
+
+1449580578 /home/heg/Downloads/UDP_ALL/UDPClient -SR/Client.h
+	"Utility.h"
+	<errno.h>
+	<signal.h>
+
+1449431342 /home/heg/Downloads/UDP_ALL/UDPClient -SR/Utility.h
+	<inttypes.h>
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<string>
+	<errno.h>
+	<map>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<sstream>
+
+1449585692 source:/home/heg/Downloads/UDP_ALL/UDPClient -SR/main.cpp
+	"Client.h"
+	"Utility.h"
+
+1449236800 source:/home/heg/Downloads/UDP_ALL/UDPClient -SR/Utility.cpp
+	"Utility.h"
+
+1449580232 source:/home/hero/Downloads/networks_lab2_6_57/UDP_ALL/UDPClient -SR/Client.cpp
+	"Client.h"
+	<ctime>
+
+1449580578 /home/hero/Downloads/networks_lab2_6_57/UDP_ALL/UDPClient -SR/Client.h
+	"Utility.h"
+	<errno.h>
+	<signal.h>
+
+1449431342 /home/hero/Downloads/networks_lab2_6_57/UDP_ALL/UDPClient -SR/Utility.h
+	<inttypes.h>
+	<stdio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<string>
+	<errno.h>
+	<map>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<fstream>
+	<vector>
+	<sstream>
+
+1449598466 source:/home/hero/Downloads/networks_lab2_6_57/UDP_ALL/UDPClient -SR/main.cpp
+	"Client.h"
+	"Utility.h"
+
+1449236800 source:/home/hero/Downloads/networks_lab2_6_57/UDP_ALL/UDPClient -SR/Utility.cpp
+	"Utility.h"
+
